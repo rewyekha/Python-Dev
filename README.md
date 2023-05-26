@@ -1,3 +1,3 @@
 
 ## Python Projects
-- coding knowledge improvement
+- coding knowledge improvement.
